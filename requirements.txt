@@ -1,0 +1,7 @@
+click==8.0.0
+matplotlib==3.4.2
+numpy==1.24.2
+psutil~=5.9.1
+PyAudio~=0.2.11
+vispy~=0.11.0
+pygame~=2.1.2
